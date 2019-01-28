@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VkPostReader</string>
+    <integer name="com_vk_sdk_AppId">6837329</integer>
+</resources>
